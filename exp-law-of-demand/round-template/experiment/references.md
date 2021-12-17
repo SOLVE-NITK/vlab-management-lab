@@ -11,13 +11,13 @@
     <li>A.R. Aryasri, "Managerial Economics and Financial Analysis", McGraw Hill Publishing Company, New Delhi, 2020</li>
     <li> D. Salvatore, "Microeconomics", Schaum's Outline Series, McGraw Hill Publishing, USA, 2006.</li>
    </td>
-    <td>Developer : <br> Dr. Sheena Reddy | NITK</br></br>
+    <td>Developer : <br> Dr. Sheena | NITK</br></br>
     Contributors :
     <ul style="list-style-type: none;">
-    <li>Aishwarya Shetty | NITK</li>
-    <li>Akshaya | NITK</li>
     <li>Komal Anand | NITK</li>
     <li>Sohham Seal | NITK</li>
+    <li>Aishwarya Shetty | NITK</li>
+    <li>Akshaya | NITK</li>
      </ul></td>
   </tr>
 </table>

@@ -10,11 +10,13 @@
     <li>Yogesh Maheshwari, "Managerial Economics Ed:3",Prentice Hall of India, New Delhi, 2012</li>
     <li>A.R. Aryasri, "Managerial Economics and Financial Analysis", McGraw Hill Publishing Company, New Delhi, 2020</li>
    </td>
-    <td>Developer : Dr. Sheena Reddy | NITK</br></br>
+    <td>Developer : Dr. Sheena | NITK</br></br>
     Contributors :
     <ul style="list-style-type: none;">
     <li>Pranav Agarwal| NITK</li>
     <li>Abhiraj Mengade | NITK</li>
+    <li>Aishwarya Shetty | NITK</li>
+    <li>Akshaya | NITK</li>
      </ul></td>
   </tr>
 </table>
